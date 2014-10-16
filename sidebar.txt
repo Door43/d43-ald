@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ald:home|Door43 (ald)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ald|d43-ald repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ald/archive/master.zip|d43-ald.zip]]
+
+**Recent Changes**
+{{changes>ns = ald}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ald|Ethnologue data]]
+
